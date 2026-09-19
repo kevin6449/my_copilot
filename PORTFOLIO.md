@@ -11,9 +11,7 @@
 
 ## 🌐 線上展示
 
-**https://github.com/kevin6449/my_copilot.git/**
-
-> ⚠️ 請把上面這行換成你自己的 GitHub Pages 網址。
+**https://kevin6449.github.io/my_copilot/**
 
 ## ✨ 功能
 
